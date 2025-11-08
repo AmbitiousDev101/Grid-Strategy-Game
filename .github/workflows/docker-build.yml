@@ -25,4 +25,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: himeshsharma/grid_based_game:latest
+          tags: himesh881/grid_based_game:latest
