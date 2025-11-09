@@ -3,6 +3,7 @@
 #include "sim_header.h"
 
 
+
 int *p1_x, *p1_y, *p1_w, *p1_h, ***p1_occ; 
 int *p2_x, *p2_y, *p2_w, *p2_h, ***p2_occ;
 int p1_count = 0, p2_count = 0;
