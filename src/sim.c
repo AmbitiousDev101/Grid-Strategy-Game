@@ -1,5 +1,6 @@
 #include "sim_header.h"
 
+
 void init_game(GameState *game) {
     memset(game, 0, sizeof(GameState));
     game->p1.count = 0;
