@@ -1,0 +1,8 @@
+monopoly
+*.o
+*.out
+*.log
+*.swp
+.vscode/
+.idea/
+.DS_Store
