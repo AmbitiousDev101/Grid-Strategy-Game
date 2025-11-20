@@ -1,4 +1,2 @@
 ## Project Overview
-This project is a turn-based strategy game written in C, managing two players competing across a dynamic grid of cities. 
-It uses dynamic memory allocation and pointer-based data structures for efficient state and collision management. 
-The Dockerfile provided uses a multi-stage build to compile and run the program inside an isolated Linux container.
+A turn-based strategy game written in C where two players compete to take over opponent regions on a dynamic grid. Players deploy people to districts and receive directional intelligence when missing targets. The game uses dynamic memory allocation, pointer-based data structures, and priority queues for efficient state management and optimal search algorithms. Built in C99 with Docker containerization and automated CI/CD through GitHub Actions.
